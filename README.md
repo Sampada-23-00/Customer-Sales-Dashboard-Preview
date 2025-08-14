@@ -19,7 +19,7 @@ Interactive Tableau dashboard analyzing customer behavior and sales performance 
 - Tableau Desktop
 - Sample retail dataset
 
-![Main Dashboard](Customers%20Dashboard.png)
+![Main Dashboard](Customers%20Dashboard%20.png)
 ![Sales Dashboard](Sales%20Dashboard.png)
 
 
